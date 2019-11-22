@@ -2,8 +2,12 @@
   margin: 0;
   padding: 0;
 }
+<<<<<<< HEAD
 h1 {
     color: red;
+=======
+h1 {background-color:blue;
+>>>>>>> e91a4a18b80ba72b35eff6d3ad3f641bca20ba2d
 }
 .page-heading {
   box-sizing: border-box;
