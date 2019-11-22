@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
 }
-
+h2 {background-color:blue;
+}
 .page-heading {
   box-sizing: border-box;
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
