@@ -3,7 +3,9 @@
   padding: 0;
 }
 h1 {
+
     color: blue;
+>
 }
 .page-heading {
   box-sizing: border-box;
